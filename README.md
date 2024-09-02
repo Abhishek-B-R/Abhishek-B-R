@@ -1,5 +1,7 @@
 # Hi, I'm Abhishek <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> , <br> A passionate developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
 
+[![](https://visitcount.itsvg.in/api?id=abhishekbr&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="25px">
@@ -18,7 +20,10 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:byteblaster1468@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="25px">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/channels/@abhishekbr01">
+    <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" width="25px">
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <img src="https://user-images.githubusercontent.com/52351749/127750424-29cad6c0-3f84-4009-b243-e611c6153a03.gif" align="right" width="200">
@@ -32,8 +37,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I ❤️ playing ♟️ and 🏐
 
+# Coding profiles
+<p align="center">
+  <a href="https://leetcode.com/u/Abhishek__B_R/">
+    <img src="https://upload.vectorlogo.zone/logos/leetcode/images/1f27e737-4847-49da-80b2-eb08dbd3467f.svg" width="55">
+  </a> &nbsp;&nbsp;&nbsp;
+</p>
 
-
+# Languages and Tools
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
