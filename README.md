@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning NodeJs, React and DSA
-- 💬 Ask me about anything Java/Algorithms and Data Structures/Javascript/React/Python
+- 💬 Ask me about anything Algorithms and Data Structures/Java/Javascript/Typescript/React/Python
 - 📫 How to reach me: *byteblaster1468@gmail.com*
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I ❤️ playing ♟️ and 🏐
