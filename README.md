@@ -3,6 +3,12 @@
 [![](https://visitcount.itsvg.in/api?id=abhishekbr&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <p align="center">
+  <a href="https://leetcode.com/Abhishek__B_R/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/Abhishek__B_R/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/Abhishek__B_R/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-02.gif" alt="jyot" height="100" width="100" /></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="25px">
   </a> &nbsp;&nbsp;&nbsp;
@@ -26,8 +32,6 @@
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<img src="https://user-images.githubusercontent.com/52351749/127750424-29cad6c0-3f84-4009-b243-e611c6153a03.gif" align="right" width="200">
-
 ### <img src="https://user-images.githubusercontent.com/52351749/127751174-7b5a530a-1b9f-4d0c-acd3-1aeac7dab558.gif" width="45px"> About Me : 
 
 - 🔭 I’m currently working on something cool 😉
@@ -37,15 +41,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I ❤️ playing ♟️ and 🏐
 
-# Coding profiles
-<p align="center">
-<!--   <a href="https://leetcode.com/u/Abhishek__B_R/"> -->
-  <a>
-    <img src="https://upload.vectorlogo.zone/logos/leetcode/images/1f27e737-4847-49da-80b2-eb08dbd3467f.svg" width="55">
-  </a> &nbsp;&nbsp;&nbsp;
-</p>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Abhishek-B-R&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Abhishek-B-R&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-B-R&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-# Languages and Tools
+<!---# Languages and Tools
 <p align="center">
       <img src="https://user-images.githubusercontent.com/52351749/127752469-1265145c-d445-41de-b1ca-25114ebd9df6.png" alt="javascript" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
@@ -61,4 +63,4 @@
       <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="55" height="55"/> 
-</p>
+</p>--->
