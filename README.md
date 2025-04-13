@@ -35,12 +35,12 @@
 ### <img src="https://user-images.githubusercontent.com/52351749/127751174-7b5a530a-1b9f-4d0c-acd3-1aeac7dab558.gif" width="45px"> About Me : 
 
 - 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning NodeJs, React and DSA
-- 💬 Ask me about anything Algorithms and Data Structures/Java/Javascript/Typescript/React/Python
+- 🌱 I’m currently learning t3-stack,Three.js and DSA
+- 💬 Ask me about anything Algorithms and Data Structures/Java/Javascript/Typescript/React/Python/NodeJS/NextJS
 - 📫 How to reach me: *byteblaster1468@gmail.com*
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I ❤️ playing ♟️ and 🏐
 
+# ⚡ Current Stats ⚡
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Abhishek-B-R&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Abhishek-B-R&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
