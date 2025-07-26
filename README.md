@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/abhi-br">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="25px">
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Abhishek-B-R">
@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/abhi__br/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="25px">
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/AbhiCodes01">
+  <a href="https://x.com/abhi__br">
     <img src="https://img.freepik.com/premium-vector/new-twitter-x-logo-vector-twitter-x-sign-vector_952796-6.jpg" width="25px">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/abhishek_br_b4b1f4db3f18">
