@@ -1,51 +1,54 @@
-# Hi, I'm Abhishek <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> , <br> A passionate developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
+# Hi, I’m Abhishek <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="40" height="40">
 
-[![](https://visitcount.itsvg.in/api?id=abhishekbr&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
-<p align="center">
-  <a href="https://leetcode.com/Abhishek__B_R/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="100" width="100" /></a>
-  <a href="https://leetcode.com/Abhishek__B_R/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
-  <a href="https://leetcode.com/Abhishek__B_R/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-02.gif" alt="jyot" height="100" width="100" /></a>
-</p>
+A developer from India <img style="vertical-align: bottom;" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="22">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhi-br">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="25px">
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Abhishek-B-R">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="25px">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/abhi__br/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="25px">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/abhi__br">
-    <img src="https://img.freepik.com/premium-vector/new-twitter-x-logo-vector-twitter-x-sign-vector_952796-6.jpg" width="25px">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/abhishek_br_b4b1f4db3f18">
-    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" width="25px">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:byteblaster1468@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="25px">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/channels/@abhishekbr01">
-    <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" width="25px">
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/abhi__br"><img src="https://img.shields.io/badge/-@abhi__br-181717?logo=X" alt="X" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abhi-br"><img src="https://img.shields.io/badge/LinkedIn-abhi--br-0A66C2?logo=linkedin" alt="linkedin" /></a>
+  &nbsp;
+  <a href="mailto:abhishek.br.work@gmail.com"><img src="https://img.shields.io/badge/Email-abhishek.br.work@gmail.com-D14836?logo=gmail" alt="email" /></a>
 </p>
 
-### <img src="https://user-images.githubusercontent.com/52351749/127751174-7b5a530a-1b9f-4d0c-acd3-1aeac7dab558.gif" width="45px"> About Me : 
+## About me
 
-- 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning t3-stack,Three.js and DSA
-- 💬 Ask me about anything Algorithms and Data Structures/Java/Javascript/Typescript/React/Python/NodeJS/NextJS
-- 📫 How to reach me: *byteblaster1468@gmail.com*
-- ⚡ Fun fact: I ❤️ playing ♟️ and 🏐
+I build real projects that solve real problems. I focus on blockchain, full stack web apps, and AI tooling. My repos contain production ready code, demos, and bite sized experiments you can fork and run immediately.
 
-# ⚡ Current Stats ⚡
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Abhishek-B-R&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Abhishek-B-R&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-B-R&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+* Current focus: building reliable DApps and AI powered developer tools
+* Languages I use daily: JavaScript/TypeScript
+* Tools I love: Next.js Hardhat Ethers.js Supabase Tailwind Hono.js
+
+## What you will find here
+
+* Production projects that I use myself or have deployed for users
+* Small, well documented experiments you can clone and run in minutes
+* Readable code with clear setup instructions and demo links
+
+## Tech snapshot
+
+* **Frontend**: React Next.js Three.js Tailwind
+* **Backend**: Node.js Express FastAPI Supabase
+* **Blockchain**: Solidity Hardhat Ethers.js Ethereum Solana
+* **AI**: embeddings agents prompt engineering
+
+## Stats
+
+<div align="center">
+  <img width="380" src="https://streak-stats.demolab.com/?user=Abhishek-B-R&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=Abhishek-B-R&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-B-R&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
+
+## Quick ways to help or reach me
+
+* Star a repo you like or open an issue with suggestions
+* Follow me on GitHub to see new projects and experiments: [Abhishek-B-R](https://github.com/Abhishek-B-R)
+* Email: **[abhishek.br.work@gmail.com](mailto:abhishek.br.work@gmail.com)**
+
+## Final note
+
+I prefer small, useful projects that are well documented and easy to try. If you see something you like, fork it, open an issue, or say hi. I read every message.
+
 
 <!---# Languages and Tools
 <p align="center">
