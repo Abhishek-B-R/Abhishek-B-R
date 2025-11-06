@@ -16,10 +16,10 @@ A developer from India <img src="https://static.vecteezy.com/system/resources/pr
 I build software that people actually enjoy using.  
 I focus on simplicity, reliability, and developer experience — projects that feel smooth to build, deploy, and scale.  
 
-- Focus: Building software products with great UX and technical depth  
-- Languages: JavaScript, TypeScript, Java, Python, Rust  
-- Core stack: Next.js, Solana, Supabase, Tailwind, Hono.js  
-- Philosophy: Ship real, usable products that solve real problems  
+- **Focus**: Building software products with great UX and technical depth  
+- **Languages**: JavaScript, TypeScript, Java, Python, Rust  
+- **Core stack**: Next.js, Solana, Supabase, Tailwind, Hono.js  
+- **Philosophy**: Ship real, usable products that solve real problems  
 
 ---
 
