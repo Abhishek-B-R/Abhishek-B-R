@@ -1,69 +1,74 @@
-# Hi, I’m Abhishek <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="40" height="40">
+# Hi, I’m Abhishek <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="35" height="35" style="vertical-align: -30%" />
 
-A developer from India <img style="vertical-align: bottom;" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="22">
+A developer from India <img src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="22" />
 
 <p align="center">
-  <a href="https://x.com/abhi__br"><img src="https://img.shields.io/badge/-@abhi__br-181717?logo=X" alt="X" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/abhi-br"><img src="https://img.shields.io/badge/LinkedIn-abhi--br-0A66C2?logo=linkedin" alt="linkedin" /></a>
-  &nbsp;
-  <a href="mailto:abhishek.br.work@gmail.com"><img src="https://img.shields.io/badge/Email-abhishek.br.work@gmail.com-D14836?logo=gmail" alt="email" /></a>
+  <a href="https://x.com/abhi__br"><img src="https://img.shields.io/badge/Twitter-@abhi__br-000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abhi-br"><img src="https://img.shields.io/badge/LinkedIn-abhi--br-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abhishek.br.work@gmail.com"><img src="https://img.shields.io/badge/Email-abhishek.br.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://abhishekbr.dev/"><img src="https://img.shields.io/badge/Portfolio-abhishekbr.dev-1E90FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-## About me
+---
 
-I build real projects that solve real problems. I focus on blockchain, full stack web apps, and AI tooling. My repos contain production ready code, demos, and bite sized experiments you can fork and run immediately.
+## About Me
 
-* Current focus: building reliable DApps and AI powered developer tools
-* Languages I use daily: JavaScript/TypeScript
-* Tools I love: Next.js Hardhat Ethers.js Supabase Tailwind Hono.js
+I build software that people actually enjoy using.  
+I focus on simplicity, reliability, and developer experience — projects that feel smooth to build, deploy, and scale.  
 
-## What you will find here
+- Focus: Building software products with great UX and technical depth  
+- Languages: JavaScript, TypeScript, Java, Python, Rust  
+- Core stack: Next.js, Solana, Supabase, Tailwind, Hono.js  
+- Philosophy: Ship real, usable products that solve real problems  
 
-* Production projects that I use myself or have deployed for users
-* Small, well documented experiments you can clone and run in minutes
-* Readable code with clear setup instructions and demo links
+---
 
-## Tech snapshot
+## Tech Snapshot
 
-* **Frontend**: React Next.js Three.js Tailwind
-* **Backend**: Node.js Express FastAPI Supabase
-* **Blockchain**: Solidity Hardhat Ethers.js Ethereum Solana
-* **AI**: embeddings agents prompt engineering
+| Domain | Tools |
+|--------|--------|
+| **Frontend** | React, Next.js, Tailwind, Three.js |
+| **Backend** | Node.js, Express, FastAPI, Supabase |
+| **Blockchain** | Rust, Solana, Anchor, Web3.js |
+| **AI / Tooling** | Embeddings, Agents, Prompt Engineering |
+| **Infra / DevOps** | AWS EC2, S3, SQS, Cloudflare R2, GitHub Actions |
 
-## Stats
+---
+
+## Featured Projects
+
+| Project | Description | Stack | Demo |
+|----------|--------------|-------|------|
+| **NameHunt** | AI-powered platform for finding unique and brandable names | Next.js, Supabase, OpenAI | [Repo](https://github.com/Abhishek-B-R/NameHunt) |
+| **Deployr** | Fullstack Vercel clone for instant app deployments | Next.js, Docker, Nginx, AWS | [Repo](https://github.com/Abhishek-B-R/Deployr) |
+| **DecenTrack** | Decentralized website uptime tracker for site owners | Solidity, React, Supabase, Hardhat | [Repo](https://github.com/Abhishek-B-R/DecenTrack) |
+| **MedRemind** | OCR and reminder system for medical prescriptions | Next.js, Google API, LLMs | [Repo](https://github.com/Abhishek-B-R/MedRemind) |
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img width="380" src="https://streak-stats.demolab.com/?user=Abhishek-B-R&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=Abhishek-B-R&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-B-R&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width="380" src="https://streak-stats.demolab.com?user=Abhishek-B-R&theme=react&hide_border=false&border_radius=10" alt="streak stats" />
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=Abhishek-B-R&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="stats" />
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-B-R&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="langs" />
 </div>
 
-## Quick ways to help or reach me
+---
 
-* Star a repo you like or open an issue with suggestions
-* Follow me on GitHub to see new projects and experiments: [Abhishek-B-R](https://github.com/Abhishek-B-R)
-* Email: **[abhishek.br.work@gmail.com](mailto:abhishek.br.work@gmail.com)**
+## Contact
 
-## Final note
+I’m always open to discussions about building scalable systems, Solana development, or improving developer tooling.
 
-I prefer small, useful projects that are well documented and easy to try. If you see something you like, fork it, open an issue, or say hi. I read every message.
+- Email: [abhishek.br.work@gmail.com](mailto:abhishek.br.work@gmail.com)  
+- Portfolio: [abhishekbr.dev](https://abhishekbr.dev)  
+- Twitter: [@abhi__br](https://x.com/abhi__br)
 
+---
 
-<!---# Languages and Tools
-<p align="center">
-      <img src="https://user-images.githubusercontent.com/52351749/127752469-1265145c-d445-41de-b1ca-25114ebd9df6.png" alt="javascript" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css" width="55" height="55"/>
-      <img src="https://user-images.githubusercontent.com/52351749/127752433-8c8cc395-62d0-4713-b1ee-7c6c622ab95b.png" alt="c" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="c++" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node js" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
-      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="55" height="55"/> 
-</p>--->
+## Philosophy
+
+Code should be practical, minimal, and built to last.  
+I believe in building tools that remove friction, empower creators, and make technology feel invisible.
+
+---
