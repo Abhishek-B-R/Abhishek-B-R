@@ -3,7 +3,7 @@
 A developer from India <img src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="22" />
 
 <p align="center">
-  <a href="https://x.com/abhi__br"><img src="https://img.shields.io/badge/Twitter-@abhi__br-000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/abhitwt"><img src="https://img.shields.io/badge/Twitter-@abhitwt-000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abhi-br"><img src="https://img.shields.io/badge/LinkedIn-abhi--br-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:abhishek.br.work@gmail.com"><img src="https://img.shields.io/badge/Email-abhishek.br.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://abhishekbr.dev/"><img src="https://img.shields.io/badge/Portfolio-abhishekbr.dev-1E90FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
