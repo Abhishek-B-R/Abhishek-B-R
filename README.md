@@ -1,4 +1,7 @@
-# Hi, I’m Abhishek <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="35" height="35" style="vertical-align: -30%" />
+# Hi, I’m Abhishek 👋
+
+ - Developer. Part-time indie hacker. Exploring the latest in tech.
+<!-- <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="35" height="35" style="vertical-align: -30%" /> 
 
 A developer from India <img src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="22" />
 
@@ -31,7 +34,7 @@ I focus on simplicity, reliability, and developer experience — projects that f
 | **Backend** | Node.js, Express, FastAPI, Supabase |
 | **Blockchain** | Rust, Solana, Anchor, Web3.js |
 | **AI / Tooling** | Embeddings, Agents, Prompt Engineering |
-| **Infra / DevOps** | AWS EC2, S3, SQS, Cloudflare R2, GitHub Actions |
+| **Infra / DevOps** | AWS, Cloudflare R2, GitHub Actions |
 
 ---
 
@@ -72,3 +75,5 @@ Code should be practical, minimal, and built to last.
 I believe in building tools that remove friction, empower creators, and make technology feel invisible.
 
 ---
+-->
+
